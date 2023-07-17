@@ -4,18 +4,17 @@
 ///     body
 ///    }
 
-void main() {
+void main() {}
 //conditional statement       (conditional operators - <,>,==,!=,<=,>=)
 
- /* int number1 = 30;
+/* int number1 = 30;
   if (number1 > 20) {
     print("the number $number1 is greater than 20");
   }
 }
 */
-  void main(){
-    
-  }
+
+
 /* 
 if (condition) {
   body for true case
@@ -29,10 +28,11 @@ else {
 }
 */
 
-
 /*
   if_else if
   if (condition){
     
   }
+
 */
+
